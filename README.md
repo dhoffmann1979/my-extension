@@ -1,4 +1,4 @@
 # my-extension
 Test Extension
 
-Change 2
+Change 3
